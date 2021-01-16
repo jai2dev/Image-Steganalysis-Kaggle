@@ -1,6 +1,4 @@
-# Steps to run the Application
-
-
+# steps to run the application
 
 
 The Code folder contains two code files
