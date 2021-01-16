@@ -1,9 +1,5 @@
 
-
-
-
-
-##		****Steps to run the Application****
+##Steps to run the Application
 
 
 
