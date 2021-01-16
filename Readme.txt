@@ -3,14 +3,9 @@
 
 
 
-					****Steps to run the Application****
+##		****Steps to run the Application****
 
 
-Note: We have used kaggle for executing and developing of the project as the project requires GPU for its execution. So it was not affordable and also keeping in mind the size of the dataset, the model will take years to train on a normal pc. Further the dataset used is too large (around 30 gb in size) so we have included a portion of the dataset in the folder.
-
-
-Platform : Kaggle
-Machine Learning Framework : Pytorch
 
 
 The Code folder contains two code files
